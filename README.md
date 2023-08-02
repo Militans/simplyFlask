@@ -1,0 +1,2 @@
+# simplyFlask
+First using flask
